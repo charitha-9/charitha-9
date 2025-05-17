@@ -5,7 +5,7 @@
 <h1 align="center" style="color:#a9746e;">👋 <span style="color:#c49a6c;">Hi there, Welcome to my GitHub!</span></h1>
 
 <p align="center" style="color:#7b5743;">
-  I'm a <strong>B.Tech CSE student</strong> at <em>Amity University Bengaluru</em> 🤎<br>
+  I'm a CHARITHA <strong>B.Tech CSE student</strong> at <em>Amity University Bengaluru</em> 🤎<br>
   Skilled in <strong>Python, C, HTML & CSS</strong>, aspiring to be a <strong>web developer</strong>.<br>
   I love learning new things and journaling my journey ✨
 </p>
@@ -27,7 +27,7 @@
   <img src="https://64.media.tumblr.com/cf0ee710d5a87c3f227f2de7c74a49aa/tumblr_pqw7ikOu0Z1xbmkkyo1_540.gif" width="180" />
 </p>
 
-### 🌸 About Me
+### 🤗 About Me
 
 - Passionate about crafting clean, warm web designs  
 - Always curious, always learning  
