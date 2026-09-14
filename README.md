@@ -39,8 +39,4 @@
 
 ---
 
-<p align="center" style="font-style: italic; color:#b59070;">
-  “Softly coding under cozy brown skies... 🤎”
-</p>
-
 
